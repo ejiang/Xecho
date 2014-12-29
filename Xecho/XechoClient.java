@@ -87,7 +87,7 @@ public class XechoClient {
       List<String> lines = xc.sendRequest(userInput);
       if (xc.isClosed())
         break;
-      for (String l in lines)
+      for (String l : lines)
         System.out.println(l);
       System.out.print("% ");
     }

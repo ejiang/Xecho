@@ -1,4 +1,2 @@
 Manifest-Version: 1.0
-JavaFX-Version: 8.0
-Created-By: JavaFX Packager
 Main-Class: Xecho.XechoClient
